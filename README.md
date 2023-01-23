@@ -44,6 +44,10 @@ Andy Tanenbaum also classify Windows 8/8.1 as modern Windows.
 - [GetCurrentProcess function (processthreadsapi.h)](https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-getcurrentprocess)
 - [ZwTerminateProcess function (ntddk.h)](https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/ntddk/nf-ntddk-zwterminateprocess)
 
+## Resources
+- [Linker](http://www.godevtool.com/Golink.zip)
+- [ntdll.dll file](https://www.dll-files.com/download/8e361abf2f459718929ae37892fca037/ntdll.dll.html?c=bXIvc0NpYnk4dldvZjFGYmpRcGI5UT09)
+
 ## Undocumented
 
 ![](https://i.imgflip.com/751y23.jpg)
